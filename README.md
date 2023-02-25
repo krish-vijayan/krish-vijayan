@@ -3,9 +3,7 @@
 - 🌱 I’m currently learning React Native, SwiftUI, Swift, and Python
 - 🥅 2023 Goal: Learn more of mobile development
 ---
-<img align="center" alt="Krish's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=krish-vijayan&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
----
 ### Languages and Tools:
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Typescript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
