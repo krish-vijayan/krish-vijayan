@@ -1,6 +1,6 @@
 # Hi there, I'm Krish 👋
 - 🤖 Mechatronics Engineering Student @uWaterloo
-- 🌱 I’m currently learning React Native, SwiftUI, Swift, and Python
+- 🌱 I’m currently learning Swift, SwiftUI, React Native, and Python
 - 🥅 2023 Goal: Learn more of mobile development
 ---
 
